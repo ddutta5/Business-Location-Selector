@@ -1,0 +1,17 @@
+[  
+    {  
+        "OwnerId": "john_doe",
+        "Address" : "201 Baker St, Tampa, FL",
+        "ZipCode" : "22188",
+        "Cost" : "32450000"
+        
+        
+    },
+    {  
+        "OwnerId": "mark_adams",
+        "Address" : "454 Pine St, Pheonix, AZ",
+        "ZipCode" : "28241",
+        "Cost" : "76450000.5"
+    } 
+    
+]
